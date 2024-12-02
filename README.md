@@ -15,6 +15,16 @@
 </p>
 <br/>
 
+## My setup
+
+poetry new poetry_vercel
+poetry init
+poetry env use python3.12
+poetry install
+poetry shell
+poetry env info
+
+
 ## Features
 
 - [Next.js](https://nextjs.org) App Router
