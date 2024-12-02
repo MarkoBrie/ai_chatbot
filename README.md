@@ -24,6 +24,8 @@ poetry install
 poetry shell
 poetry env info
 
+- adding the environment variables to Vercel settings environment variables
+
 
 ## Features
 
